@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Otis</h1>
+<h1 align="center">Hi 👋, I'm Folka</h1>
 <h3 align="center">An inquizitive Junior Developer</h3>
 
 - 🌱 I’m currently learning **React, Spring-Boot, Golang**
